@@ -1,4 +1,4 @@
-# Mapping_Earthquakes
+# Mapping Earthquakes
 
 Deployed project URL: https://arminekhanan.github.io/Mapping_Earthquakes/
 
