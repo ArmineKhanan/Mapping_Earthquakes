@@ -13,7 +13,7 @@ body,
     background-color: #fff;
     border-radius: 5px;
   }
-  .legend {
+  .legend i {
     width: 18x;
     height: 18x;
     float: left;
